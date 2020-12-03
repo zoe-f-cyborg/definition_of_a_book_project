@@ -43,4 +43,4 @@ while userTry == "yes":
     var4 = random.choice(VAR4)
     var5 = random.choice(VAR5)
     print("A book is " + var1 + " made by " + var2 + " in " + var3 + " with " + var4 + ". Its purpose is " + var5 + ".")
-    userTry = input("generate another definition? (yes/no)")```
+    userTry = input("generate another definition? (yes/no)")
