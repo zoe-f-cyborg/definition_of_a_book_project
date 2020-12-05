@@ -1,7 +1,7 @@
 # Defining the Book in the Digital Age
 
 Defining the book in the digital age, or in any age, is a challenging endeavour.  “The book” has meant many things to many people throughout history. This project, which derives often contradictory definitions by randomly combining a finite set of variables, is meant to reflect those different meanings, and place them on the level playing field of digital randomization. This will hopefully encourage the viewer to examine their assumptions in their historical context, and incite the viewer to engage in and explore the challenges which arise. 
-To create my program, I chose to create five variables, answering five key questions, which would form my rudimentary definition. Each variable contains a list of words or phrases (which I will call “segments”), one of which the program will randomly pull every time it runs. To fill my lists ([visible here](link)]), I chose to examine the forum posts defining the book which my peers and I posted in week 2 of this course (White) expanding on them based on things we learned later on. 
+To create my program, I chose to create five variables, answering five key questions, which would form my rudimentary definition. Each variable contains a list of words or phrases (which I will call “segments”), one of which the program will randomly pull every time it runs. To fill my lists ([visible here](link)), I chose to examine the forum posts defining the book which my peers and I posted in week 2 of this course (White) expanding on them based on things we learned later on. 
 
 ## Question 1: What is a book? 
 
