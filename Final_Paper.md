@@ -5,7 +5,7 @@ To create my program, I chose to create five variables, answering five key quest
 
 ## Question 1: What is a book? 
 
-This question is the broadest and most basic one we will deal with, thus the most challenging to turn into a succinct list. Excluding elements which will be addressed later, such as purpose and maker, the forum posts for this question discussed mainly physical characteristics, content, and access. Below is a [word cloud](link) generated in [Voyant](https://voyant-tools.org/?corpus=48b402d2486d6d4613d3b443ca329a62) showing the words which were most frequently used in our definitions.
+This question is the broadest and most basic one we will deal with, thus the most challenging to turn into a succinct list. Excluding elements which will be addressed later, such as purpose and maker, the forum posts for this question discussed mainly physical characteristics, content, and access. Below is a word cloud [generated in Voyant](https://voyant-tools.org/?corpus=48b402d2486d6d4613d3b443ca329a62) showing the words which were most frequently used in our definitions.
 
 ![word cloud](wordcloud.png)
 
@@ -17,7 +17,7 @@ Finally, many touched on the issue of accessibility as it relates to the book. T
 Although many of these definitions were complex and thoughtful, they often lacked historical insight. Students thought deeply about the tension between the physical codex and the material e-book, but they were not thinking about the medieval manuscript. For example, one student included portability as a characteristic of the book. This is a characteristic that most modern paperbacks and ebooks share, however, it is not shared with the heavy, unwieldy, and expensive volumes of medieval [chained libraries](https://medievalfragments.wordpress.com/2013/05/10/the-last-of-the-great-chained-libraries/). In addition, many of us thought about accessibility, but few with a historical insight into how access to books and book making materials has always been limited. The idea of the book as widely accessible has only become ubiquitous with the rise of the mass market paperback, due in part to the United State’s refusal to enter into international copyright agreements around the end of the 19th century (Striphas, 32). Before this, and certainly before the invention of the printing press, books were an expensive luxury. In the middle ages, they were not vectors for mass entertainment but almost exclusively for scripture (Encyclopedia Britannica, “The revival of the secular book trade”). 
 
 ## Question 2: Who makes it? 
-This question was meant to allow us to examine the notion of authorship, and who exactly can be credited with “making” a book. Beginning arguably in the 14th century with Vasari’s [**Lives of the Most Eminent Painters, Sculptors, and Architects**](https://www.britannica.com/biography/Giorgio-Vasari#ref37617) (Encyclopaedia Britannica) and continuing through to the present day, we have an idea of “the artist” as an isolated individual. This idea is reflected in the student mentions of authorship. Of the four mentions of “author,” only one included and “(s)” to indicate the potential for multiple authors. Another used the term “a writer,” while one more said a book was “attributable to a specific person or persons.” Books, in this view, may be conceived of as glimpses into the mind of a (usually singular) author. They represent a “cohesive” or “comprehensive” (other words which popped up in the word cloud) vision. This explains the claim which one student made that “a book is someone's world... it transports one into the mind or experiences of another.” 
+This question was meant to allow us to examine the notion of authorship, and who exactly can be credited with “making” a book. Beginning arguably in the 14th century with Vasari’s [*Lives of the Most Eminent Painters, Sculptors, and Architects*](https://www.britannica.com/biography/Giorgio-Vasari#ref37617) (Encyclopaedia Britannica) and continuing through to the present day, we have an idea of “the artist” as an isolated individual. This idea is reflected in the student mentions of authorship. Of the four mentions of “author,” only one included and “(s)” to indicate the potential for multiple authors. Another used the term “a writer,” while one more said a book was “attributable to a specific person or persons.” Books, in this view, may be conceived of as glimpses into the mind of a (usually singular) author. They represent a “cohesive” or “comprehensive” (other words which popped up in the word cloud) vision. This explains the claim which one student made that “a book is someone's world... it transports one into the mind or experiences of another.” 
 
 Of course, this idea of the artist overlooks all of the other people involved in book production. In the modern publishing industry, there are not only authors but editors, designers, publicists, and legal consultation. There are also people who design and operate the printing equipment. In early book publishing, although the operation was often smaller, there would have been “bulls” pulling the presses in printing houses, as well as papermakers and bookbinders (EB, “The age of early printing”). For this list, I included some of the individuals who might claim to have made the book, such as “publicist” and “printer” and “editor,” and also “a team of collaborators.” Although this last answer may seem most “correct,” none of the others are actually wrong, but merely highlight different aspects of book production. It is my hope that by bringing each of these individual elements to the viewer’s attention, it will incite them to think more about how that specific role plays into the overall idea of “a book.” 
 
@@ -44,21 +44,21 @@ Books can also be a means of education and a demonstration of wealth. One studen
 
 ## Works Cited
 
-Jajdelska, Elspeth. Silent Reading and the Birth of the Narrator, University of Toronto Press, 2007. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=4672359. 
+Jajdelska, Elspeth. *Silent Reading and the Birth of the Narrator*, University of Toronto Press, 2007. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=4672359. 
 
-Manguel, Alberto. “Chapter 2: The Silent Readers.” A History of Reading, New York: Viking, 1996, https://web.stanford.edu/class/history34q/readings/Manguel/Silent_Readers.html. Accessed Dec 5 2020. 
+Manguel, Alberto. “Chapter 2: The Silent Readers.” *A History of Reading*, New York: Viking, 1996, https://web.stanford.edu/class/history34q/readings/Manguel/Silent_Readers.html. Accessed Dec 5 2020. 
 
-Moretti, Franco. “Conjectures On World Literature.” New Left Review, vol 1, no. 1, Jan/Feb 2000, https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature. Accessed Dec 5 2020. 
+Moretti, Franco. “Conjectures On World Literature.” *New Left Review*, vol 1, no. 1, Jan/Feb 2000, https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature. Accessed Dec 5 2020. 
 
-Nakamura, Lisa. “‘Words with Friends’: Socially Networked Reading on Goodreads.” PMLA, vol 128, no. 1, Jan 2013, https://doi.org/10.1632/pmla.2013.128.1.238. 
+Nakamura, Lisa. “‘Words with Friends’: Socially Networked Reading on Goodreads.” *PMLA*, vol 128, no. 1, Jan 2013, https://doi.org/10.1632/pmla.2013.128.1.238. 
 
-Stallybrass, Peter. “Chapter 2: Books and Scrolls.” Books and Readers in Early Modern England: Material Studies, edited by Jennifer Andersen, and Elizabeth Sauer, University of Pennsylvania Press, 2001. ProQuest Ebook Central, https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=3441724.
+Stallybrass, Peter. “Chapter 2: Books and Scrolls.” *Books and Readers in Early Modern England: Material Studies*, edited by Jennifer Andersen, and Elizabeth Sauer, University of Pennsylvania Press, 2001. ProQuest Ebook Central, https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=3441724.
 
-Striphas, Ted. “1 E-Books and the Digital Future.” The Late Age of Print: Everyday Book Culture from Consumerism to Control, New York: Columbia University Press, 2009. 
+Striphas, Ted. “1 E-Books and the Digital Future.” *The Late Age of Print: Everyday Book Culture from Consumerism to Control*, New York: Columbia University Press, 2009. 
 
-Unwin, George. History of publishing. Encyclopædia Britannica, October 1 2020, https://www.britannica.com/topic/publishing. Accessed December 5 2020. 
+Unwin, George. *History of publishing*. Encyclopædia Britannica, October 1 2020, https://www.britannica.com/topic/publishing. Accessed December 5 2020. 
 
-Weston, Jenny. “The Last of the Great Chained Libraries.” medievalfragments, May 10 2020, https://medievalfragments.wordpress.com/2013/05/10/the-last-of-the-great-chained-libraries/
+Weston, Jenny. “The Last of the Great Chained Libraries.” *medievalfragments*, May 10 2020, https://medievalfragments.wordpress.com/2013/05/10/the-last-of-the-great-chained-libraries/
 
 White, Michelin, et al. “DO: Post an Answer: What is a Book? Group A.” Culearn. September 17 2020. Accessed Dec 3rd 2020. https://culearn.carleton.ca/moodle/mod/forum/discuss.php?d=568609. Accessed Dec 5 2020.
 
