@@ -15,8 +15,8 @@ You may choose to generate as many definitions as you like. Enjoy.""")
 #user inputs
 uservar1 = input("What do you think a book is? ")
 uservar2 = input("Who do you think makes it? ")
-uservar3 = input("Where do you think it is made? ")
-uservar4 = input("which tools do you think they use? ")
+uservar3 = input("How do you think it is made? (i.e., what tools are used?)")
+uservar4 = input("How do you think it is read? ")
 uservar5 = input("What do you think its purpose is? ")
 
 #this part of the code is bracketed off with apostrophes becuase it is under cosntruction. It is inessential however, so I may not use it. 
@@ -29,11 +29,11 @@ if uservar1 == VAR1
         uservar1 = input("What is your new coice? ")'''
 
 #creating a list of potential words/phrases for each variable
-VAR1 = ("an object", "a series of written words numbering over 50,000, meant to be read together", "an idea", "anything which was intended to be a book", "a book", uservar1)
-VAR2 = ("an author", "a publisher", "a bull", "an editor," "a monk", "dictating", uservar2)
-VAR3 = ("a scriptorium", "a printing house", "a word processing program", uservar3)
-VAR4 = ("pen and paper", "vellum and ink", "industrial digital printers", "hands", "minds", uservar4)
-VAR5 = ("to teach", "to delight", "to sell", "to burn", "to preserve knoweldge", "to preserve records", "to aggregate knowledge", "to control you", uservar5)
+VAR1 = ("a collection of words or pictures", "something over 80 pages, with a beginning, middle, and end", "a physical pbject", "an amalgamation of knowledge", "a series of words grouped together in a specific order", "a series of words grouped together in a specific order which tell a story", "a portable collection of information", "a heavy object bound in leather containign a sacred text", uservar1)
+VAR2 = ("an author", "a psingle mind in isolation", "a publicist", "a designer", "an editor", "a publisher", "a printer", "a bull", "a monk", "a team of collaborators", uservar2)
+VAR3 = ("writing with vellum and paint a scriptorium", "writing with pen and ink", "pulling a printing press", "sending an email", "printing the pages with an industrial laser printer", "binding the pages", uservar3)
+VAR4 = ("out loud to an audience", "silently to one's self", "in a linear fashion", "in a nonlinear fashion", "in a hypertextual fashion", "closely", "distantly", uservar4)
+VAR5 = ("to tell a story", "to trasnmit information", "to preserve sacred texts", "to transport one into the mind of another", "to delight the reader", "to earn money", "to be sold", "to educate", "to train one in middle class life", "to be displayed", "to control", uservar5)
 
 #randomly chooses a variable for each slot and and prints the definition, then asks the user if they would like to try again. Anything besides "yes" should exit the program. 
 while userTry == "yes":
@@ -42,5 +42,5 @@ while userTry == "yes":
     var3 = random.choice(VAR3)
     var4 = random.choice(VAR4)
     var5 = random.choice(VAR5)
-    print("A book is " + var1 + " made by " + var2 + " in " + var3 + " with " + var4 + ". Its purpose is " + var5 + ".")
+    print(“A book is" + var1 + " made by " + var2 + " " + var 3 + ". It is meant to be read " + var4 + ". Its purpose is " + var5 + ".")
     userTry = input("generate another definition? (yes/no)")
