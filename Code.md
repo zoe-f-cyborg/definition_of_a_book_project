@@ -5,7 +5,7 @@ import random
 userTry = "yes"
 
 #intro for readers
-print(""""
+print("""
 This program generates definitions of a book based on a combination of user inputs and preset definitions.
 Through it, you will be allowed to pariticpate in the process of meaning-making, but not determine it.
 Sometimes the program will select your definition, but sometimes it will not. 
