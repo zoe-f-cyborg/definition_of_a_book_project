@@ -7,7 +7,7 @@ To create my program, I chose to create five variables, answering five key quest
 
 This question is the broadest and most basic one we will deal with, thus the most challenging to turn into a succinct list. Excluding elements which will be addressed later, such as purpose and maker, the forum posts for this question discussed mainly physical characteristics, content, and access. Below is a [word cloud](link) generated in [Voyant](https://voyant-tools.org/?corpus=48b402d2486d6d4613d3b443ca329a62) showing the words which were most frequently used in our definitions.
 
-![word cloud](insert link)
+![word cloud](wordcloud.png)
 
 The most frequent word, with 18 mentions, was “pages.” In addition, descriptions of those pages as being “bound” and having a “cover” were also common. Many people felt the need to include these material characteristics in their definition, but often with the caveat that these characteristics may or may not be “physical,” i.e. that they may be paper or displayed on some type of digital screen. This accounts for many of the instances when the word “physical” was used. Students were keenly aware of the challenges of defining the book according to its physical characteristics. “I've been struggling with this!” one student said. “Are we defining physical characteristics of a book, or what content makes a book?”
 
