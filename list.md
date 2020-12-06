@@ -1,4 +1,4 @@
-# “A book is a [1] made by [2] [3]. It is meant to be read [4]. Its purpose is [5].”
+# “A book is [1] made by [2] [3]. It is meant to be read [4]. Its purpose is [5].”
 
 ## 1. What is a book? 
 1. A collection of words or pictures
@@ -25,7 +25,6 @@
 ## 3. How is it made? 
 1. Using vellum and paint in a scriptorium
 2. Using pen and ink
-3. Using a printing press and parchment
 4. Pulling a printing press
 5. Sending an email
 6. Printing the pages
@@ -50,4 +49,5 @@
 7. To be sold
 8. To educate
 9. To train one for middle class life
-10. To be displayed on bookshelves
+10. To be displayed 
+11. To control
