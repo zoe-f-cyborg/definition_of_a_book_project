@@ -26,10 +26,10 @@
 1. Using vellum and paint in a scriptorium
 2. Using pen and ink
 3. Using a printing press and parchment
-4. pulling a printing press
-5. sending an email
-6. printing the pages
-7. binding the pages 
+4. Pulling a printing press
+5. Sending an email
+6. Printing the pages
+7. Binding the pages 
 
 ## 4. How is it read?
 1. Out loud to an audience
