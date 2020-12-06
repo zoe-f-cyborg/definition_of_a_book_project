@@ -1,6 +1,6 @@
-“A book is a [1] made by [2] [3]. It is meant to be read [4]. Its purpose is [5].”
+# “A book is a [1] made by [2] [3]. It is meant to be read [4]. Its purpose is [5].”
 
-What is a book? 
+## 1. What is a book? 
 1. A collection of words or pictures
 2. Something over 80 pages, with a beginning, middle, and end
 3. A physical object
@@ -10,7 +10,7 @@ What is a book?
 7. A portable collection of information
 8. A heavy object bound in leather containing a sacred text
 
-Who makes it? 
+## Who makes it? 
 1. An author
 2. A single mind in isolation
 3. A publicist
@@ -22,7 +22,7 @@ Who makes it?
 9. A monk
 10. A team of collaborators
 
-How is it made? 
+## How is it made? 
 1. Using vellum and paint in a scriptorium
 2. Using pen and ink
 3. Using a printing press and parchment
@@ -31,7 +31,7 @@ How is it made?
 6. printing the pages
 7. binding the pages 
 
-How is it read?
+## How is it read?
 1. Out loud to an audience
 2. Silently to one’s self
 3. In a linear fashion
@@ -40,7 +40,7 @@ How is it read?
 6. Closely 
 7. Distantly 
 
-What is its purpose? 
+## What is its purpose? 
 1. To tell a story
 2. To transmit information
 3. To preserve sacred texts
