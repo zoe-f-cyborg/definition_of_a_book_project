@@ -33,7 +33,7 @@ VAR1 = ("a collection of words or pictures", "something over 80 pages, with a be
 VAR2 = ("an author", "a psingle mind in isolation", "a publicist", "a designer", "an editor", "a publisher", "a printer", "a bull", "a monk", "a team of collaborators", uservar2)
 VAR3 = ("writing with vellum and paint a scriptorium", "writing with pen and ink", "pulling a printing press", "sending an email", "printing the pages with an industrial laser printer", "binding the pages", uservar3)
 VAR4 = ("out loud to an audience", "silently to one's self", "in a linear fashion", "in a nonlinear fashion", "in a hypertextual fashion", "closely", "distantly", uservar4)
-VAR5 = ("to tell a story", "to trasnmit information", "to preserve sacred texts", "to transport one into the mind of another", "to delight the reader", "to earn money", "to be sold", "to educate", "to train one in middle class life", "to be displayed", "to control", uservar5)
+VAR5 = ("to tell a story", "to transmit information", "to preserve sacred texts", "to transport one into the mind of another", "to delight the reader", "to earn money", "to be sold", "to educate", "to train one in middle class life", "to be displayed", "to control", uservar5)
 
 #randomly chooses a variable for each slot and and prints the definition, then asks the user if they would like to try again. Anything besides "yes" should exit the program. 
 while userTry == "yes":
