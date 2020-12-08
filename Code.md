@@ -10,13 +10,14 @@ print("""
 This program generates definitions of a book based on a combination of user inputs and preset definitions.
 Through it, you will be allowed to pariticpate in the process of meaning-making, but not determine it.
 Sometimes the program will select your definition, but sometimes it will not. 
-Sometimes it will make sense, sometimes it will not. It may cause anger, joy, fear, excitement, or any other number of emotions.
-You may choose to generate as many definitions as you like. Enjoy.""")
+Once the program times out, your answers will not be saved. 
+You may choose to generate as many definitions as you like. 
+Enjoy.""")
 
 #user inputs
 uservar1 = input("What do you think a book is? ")
 uservar2 = input("Who do you think makes it? ")
-uservar3 = input("How do you think it is made? (i.e., what tools are used?)")
+uservar3 = input("How do you think it is made? (i.e. "printing the pages")")
 uservar4 = input("How do you think it is read? ")
 uservar5 = input("What do you think its purpose is? ")
 
@@ -30,9 +31,9 @@ if uservar1 == VAR1
         uservar1 = input("What is your new coice? ")'''
 
 #creating a list of potential words/phrases for each variable
-VAR1 = ("a collection of words or pictures", "something over 80 pages, with a beginning, middle, and end", "a physical pbject", "an amalgamation of knowledge", "a series of words grouped together in a specific order", "a series of words grouped together in a specific order which tell a story", "a portable collection of information", "a heavy object bound in leather containign a sacred text", uservar1)
+VAR1 = ("a collection of words or pictures", "something over 80 pages, with a beginning, middle, and end", "a physical pbject", "an amalgamation of knowledge", "a series of words grouped together in a specific order", "a series of words grouped together in a specific order which tell a story", "a portable collection of information", "a heavy object bound in leather containing a sacred text", uservar1)
 VAR2 = ("an author", "a single mind in isolation", "a publicist", "a designer", "an editor", "a publisher", "a printer", "a bull", "a monk", "a team of collaborators", uservar2)
-VAR3 = ("writing with vellum and paint a scriptorium", "writing with pen and ink", "pulling a printing press", "sending an email", "printing the pages with an industrial laser printer", "binding the pages", uservar3)
+VAR3 = ("writing with vellum and paint in a scriptorium", "writing with pen and ink", "pulling a printing press", "sending an email", "printing the pages with an industrial laser printer", "binding the pages", uservar3)
 VAR4 = ("out loud to an audience", "silently to one's self", "in a linear fashion", "in a nonlinear fashion", "in a hypertextual fashion", "closely", "distantly", uservar4)
 VAR5 = ("to tell a story", "to transmit information", "to preserve sacred texts", "to transport one into the mind of another", "to delight the reader", "to earn money", "to be sold", "to educate", "to train one in middle class life", "to be displayed", "to control", uservar5)
 
