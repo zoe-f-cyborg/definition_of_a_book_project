@@ -42,6 +42,5 @@ while userTry == "yes":
     var3 = random.choice(VAR3)
     var4 = random.choice(VAR4)
     var5 = random.choice(VAR5)
-#initial set up
-import random
-userTry = "yes"
+    print("A book is " + var1 + " made by " + var2 + " " + var3 + ". It is meant to be read " + var4 + ". Its purpose is " + var5 + ".")
+    userTry = input("generate another definition? (yes/no)")
