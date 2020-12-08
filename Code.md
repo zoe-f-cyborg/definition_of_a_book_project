@@ -30,7 +30,7 @@ if uservar1 == VAR1
 
 #creating a list of potential words/phrases for each variable
 VAR1 = ("a collection of words or pictures", "something over 80 pages, with a beginning, middle, and end", "a physical pbject", "an amalgamation of knowledge", "a series of words grouped together in a specific order", "a series of words grouped together in a specific order which tell a story", "a portable collection of information", "a heavy object bound in leather containign a sacred text", uservar1)
-VAR2 = ("an author", "a psingle mind in isolation", "a publicist", "a designer", "an editor", "a publisher", "a printer", "a bull", "a monk", "a team of collaborators", uservar2)
+VAR2 = ("an author", "a single mind in isolation", "a publicist", "a designer", "an editor", "a publisher", "a printer", "a bull", "a monk", "a team of collaborators", uservar2)
 VAR3 = ("writing with vellum and paint a scriptorium", "writing with pen and ink", "pulling a printing press", "sending an email", "printing the pages with an industrial laser printer", "binding the pages", uservar3)
 VAR4 = ("out loud to an audience", "silently to one's self", "in a linear fashion", "in a nonlinear fashion", "in a hypertextual fashion", "closely", "distantly", uservar4)
 VAR5 = ("to tell a story", "to transmit information", "to preserve sacred texts", "to transport one into the mind of another", "to delight the reader", "to earn money", "to be sold", "to educate", "to train one in middle class life", "to be displayed", "to control", uservar5)
