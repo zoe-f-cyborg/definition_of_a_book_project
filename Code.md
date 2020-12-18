@@ -17,7 +17,7 @@ Enjoy.""")
 #user inputs
 uservar1 = input("What do you think a book is? ")
 uservar2 = input("Who do you think makes it? ")
-uservar3 = input("How do you think it is made? (i.e. "printing the pages")")
+uservar3 = input("How do you think it is made? (i.e. 'printing the pages') ")
 uservar4 = input("How do you think it is read? ")
 uservar5 = input("What do you think its purpose is? ")
 
@@ -45,4 +45,4 @@ while userTry == "yes":
     var4 = random.choice(VAR4)
     var5 = random.choice(VAR5)
     print("A book is " + var1 + " made by " + var2 + " " + var3 + ". It is meant to be read " + var4 + ". Its purpose is " + var5 + ".")
-    userTry = input("generate another definition? (yes/no)")
+    userTry = input("generate another definition? (yes/no) ")
